@@ -1,0 +1,15 @@
+
+
+body {
+  background-color:  #87e0fd;
+  }
+  .center {
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+  }
+  #btn-div {
+    color: #034970;
+    padding-top: 250px;
+    padding-bottom: 10px;
+  }
